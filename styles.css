@@ -107,3 +107,22 @@ button:hover {
     background-color: hsl(158, 42%, 18%);
     cursor: pointer;
 }
+
+.attribution {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.65rem;
+    padding-top: .25rem;
+}
+
+@media (max-width: 768px) {
+    .product-card {
+        flex-direction: column;
+    }
+    .image-container {
+        width: 100%;
+    }
+    .product-info {
+        width: 100%;
+        padding-right: 1rem;
+    }
+}
