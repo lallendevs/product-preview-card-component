@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="2346" height="1659" alt="image" src="https://github.com/user-attachments/assets/3ab2c68e-d070-47be-8e62-c414745a78d2" />
+<img width="2346" height="1656" alt="image" src="https://github.com/user-attachments/assets/dd790b3f-3682-4376-af71-d74df2605bf9" />
 
 ### Links
 
@@ -40,22 +40,17 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Responsive design
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Further skills on creating, editing and modifying flexboxes in order to create responsive layouts. Strategies in layout design for website card elements. 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I hope to continue to develop skills in responsive design and flexboxes. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Github Profile](https://github.com/lallendevs)
+- Frontend Mentor - [@lallendevs](https://www.frontendmentor.io/profile/lallendevs)
